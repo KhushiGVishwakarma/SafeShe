@@ -7,86 +7,69 @@ SafeShe is your essential personal safety companion, designed to help women stay
 ## 📱 Screenshots
 
 ### Main Page (Splash Screen)
-
-![Splash Screen](screenshots/Splash%20Screen.png)
+<img src="screenshots/Splash%20Screen.png" width="300"/>
 
 ### Onboarding Pages
+* **Onboarding Page 1**  
+  <img src="screenshots/Onboarding%201.png" width="300"/>
 
-* ** Onboarding Page 1**
-  ![Onboarding 1](screenshots/Onboarding%201.png)
+* **Onboarding Page 2**  
+  <img src="screenshots/Onboarding%202.png" width="300"/>
 
-* ** Onboarding Page 2**
-  ![Onboarding 2](screenshots/Onboarding%202.png)
-
-* ** Onboarding Page 3**
-  ![Onboarding 3](screenshots/Onboarding%203.png)
+* **Onboarding Page 3**  
+  <img src="screenshots/Onboarding%203.png" width="300"/>
 
 ### Login Page
-
-![Login](screenshots/Login.png)
+<img src="screenshots/Login.png" width="300"/>
 
 ### Register Page
-
-![Register](screenshots/Register.png)
+<img src="screenshots/Register.png" width="300"/>
 
 ### Home Page
-
-![Home](screenshots/Home.png)
+<img src="screenshots/Home.png" width="300"/>
 
 ### Navigation Drawer Page
+<img src="screenshots/Drawer.png" width="300"/>
 
-![Drawer](screenshots/Drawer.png)
-
-### 5.7 Contact Page
-
-![Contact](screenshots/Contact.png)
+### Contact Page
+<img src="screenshots/Contact.png" width="300"/>
 
 ### Helpline Page
-
-![Helpline](screenshots/Helpline.png)
+<img src="screenshots/Helpline.png" width="300"/>
 
 ### Safety Tips Pages
+* **Tip Page**  
+  <img src="screenshots/Tip.png" width="300"/>
 
-* ** Tip Page**
-  ![Tip](screenshots/Tip.png)
+* **Safety Video Page**  
+  <img src="screenshots/Video.png" width="300"/>
 
-* ** Safety Video Page**
-  ![Video](screenshots/Video.png)
-
-* ** Safety Gadgets Page**
-  ![Gadgets](screenshots/Gadgets.png)
+* **Safety Gadgets Page**  
+  <img src="screenshots/Gadgets.png" width="300"/>
 
 ### About Page
-
-![About](screenshots/About.png)
+<img src="screenshots/About.png" width="300"/>
 
 ### Report Incident Page
-
-![Report](screenshots/Report.png)
+<img src="screenshots/Report.png" width="300"/>
 
 ### Incident History Page
-
-![History](screenshots/History.png)
+<img src="screenshots/History.png" width="300"/>
 
 ### Chatbot Page
-
-![Chatbot](screenshots/Chatbot.png)
+<img src="screenshots/Chatbot.png" width="300"/>
 
 ### Feedback Page
-
-![Feedback](screenshots/Feedback.png)
+<img src="screenshots/Feedback.png" width="300"/>
 
 ### Profile Page
-
-![Profile](screenshots/Profile.png)
+<img src="screenshots/Profile.png" width="300"/>
 
 ### Edit Profile Page
-
-![Edit Profile](screenshots/Edit%20Profile.png)
+<img src="screenshots/Edit%20Profile.png" width="300"/>
 
 ### Settings Page
-
-![Settings](screenshots/Settings.png)
+<img src="screenshots/Settings.png" width="300"/>
 
 ---
 
