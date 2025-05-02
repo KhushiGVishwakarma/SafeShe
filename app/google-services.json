@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "44118157731",
+    "project_id": "safeshe-f31ec",
+    "storage_bucket": "safeshe-f31ec.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44118157731:android:60b0bdb4cfa331c7d99216",
+        "android_client_info": {
+          "package_name": "com.example.safeshe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-WB9Z4RJzsScwpWH6yjGx7yCi48xYJmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
