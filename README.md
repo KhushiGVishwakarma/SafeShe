@@ -8,89 +8,89 @@ SafeShe is your essential personal safety companion, designed to help women stay
 
 ### 5.1 Main Page (Splash Screen)
 
-![Splash Screen](screenshots/splash.png)
+![Splash Screen](screenshots/Splash%20Screen.png)
 
 ### 5.2 Onboarding Pages
 
 * **5.2.1 Onboarding Page 1**
-  ![Onboarding 1](screenshots/onboarding1.png)
+  ![Onboarding 1](screenshots/Onboarding%201.png)
 
 * **5.2.2 Onboarding Page 2**
-  ![Onboarding 2](screenshots/onboarding2.png)
+  ![Onboarding 2](screenshots/Onboarding%202.png)
 
 * **5.2.3 Onboarding Page 3**
-  ![Onboarding 3](screenshots/onboarding3.png)
+  ![Onboarding 3](screenshots/Onboarding%203.png)
 
 ### 5.3 Login Page
 
-![Login](screenshots/login.png)
+![Login](screenshots/Login.png)
 
 ### 5.4 Register Page
 
-![Register](screenshots/register.png)
+![Register](screenshots/Register.png)
 
 ### 5.5 Home Page
 
-![Home](screenshots/home.png)
+![Home](screenshots/Home.png)
 
 ### 5.6 Navigation Drawer Page
 
-![Drawer](screenshots/drawer.png)
+![Drawer](screenshots/Drawer.png)
 
 ### 5.7 Contact Page
 
-![Contact](screenshots/contact.png)
+![Contact](screenshots/Contact.png)
 
 ### 5.8 Contact Message Page
 
-![Contact Message](screenshots/contact_message.png)
+![Contact Message](screenshots/Contact%20Message.png)
 
 ### 5.9 Helpline Page
 
-![Helpline](screenshots/helpline.png)
+![Helpline](screenshots/Helpline.png)
 
 ### 5.10 Safety Tips Pages
 
 * **5.10.1 Tip Page**
-  ![Tip](screenshots/tip.png)
+  ![Tip](screenshots/Tip.png)
 
 * **5.10.2 Safety Video Page**
-  ![Video](screenshots/video.png)
+  ![Video](screenshots/Video.png)
 
 * **5.10.3 Safety Gadgets Page**
-  ![Gadgets](screenshots/gadgets.png)
+  ![Gadgets](screenshots/Gadgets.png)
 
 ### 5.11 About Page
 
-![About](screenshots/about.png)
+![About](screenshots/About.png)
 
 ### 5.12 Report Incident Page
 
-![Report](screenshots/report.png)
+![Report](screenshots/Report.png)
 
 ### 5.13 Incident History Page
 
-![History](screenshots/history.png)
+![History](screenshots/History.png)
 
 ### 5.14 Chatbot Page
 
-![Chatbot](screenshots/chatbot.png)
+![Chatbot](screenshots/Chatbot.png)
 
 ### 5.15 Feedback Page
 
-![Feedback](screenshots/feedback.png)
+![Feedback](screenshots/Feedback.png)
 
 ### 5.16 Profile Page
 
-![Profile](screenshots/profile.png)
+![Profile](screenshots/Profile.png)
 
 ### 5.17 Edit Profile Page
 
-![Edit Profile](screenshots/edit_profile.png)
+![Edit Profile](screenshots/Edit%20Profile.png)
 
 ### 5.18 Settings Page
 
-![Settings](screenshots/settings.png)
+![Settings](screenshots/Settings.png)
 
 ---
 
@@ -155,7 +155,7 @@ You're good to go!
 
 Feel free to connect:
 
-* **Email**: [your-email@example.com](mailto:your-email@example.com)
+* **Email**: [your-email@example.com](mailto:khushivish0210@gmail.com)
 
 ---
 
