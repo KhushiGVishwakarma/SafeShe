@@ -1,87 +1,166 @@
-✨ SafeShe
-SafeShe is the ultimate app dedicated to ensuring women's safety. With an intuitive design, it enables you to share your real-time location and alert your loved ones in emergencies with a simple tap. SafeShe provides peace of mind by effortlessly connecting you to emergency services when needed.
+# ✨ SafeShe
 
-Screenshots 📱
+SafeShe is your essential personal safety companion, designed to help women stay safe and connected at all times. With features like live location sharing, SOS alerts, emergency contacts, and safety tips, SafeShe empowers users with the tools needed for a secure environment.
 
+---
 
-Features 🔥
-User Management:
-Login and Registration: Quick access to the app for registered users.
+## 📱 Screenshots
 
-Safety Measures:
-Live Location Sharing: Share your live location with trusted contacts in real time.
+### 5.1 Main Page (Splash Screen)
 
-Trusted Contacts: Add up to 10 contacts who can instantly receive your location in case of emergency.
+![Splash Screen](screenshots/splash.png)
 
-User Notifications: Alerts trusted contacts who are also using SafeShe with a notification.
+### 5.2 Onboarding Pages
 
-SMS Notifications: For non-users, send SMS notifications to reach them instantly.
+* **5.2.1 Onboarding Page 1**
+  ![Onboarding 1](screenshots/onboarding1.png)
 
-Emergency Assistance:
-Emergency Helplines: Access to a curated list of emergency numbers for fast dialing.
+* **5.2.2 Onboarding Page 2**
+  ![Onboarding 2](screenshots/onboarding2.png)
 
-Safety Tips: A guide for staying safe with important tips in different scenarios.
+* **5.2.3 Onboarding Page 3**
+  ![Onboarding 3](screenshots/onboarding3.png)
 
-SOS Mode:
-Shake Detection: Activate SOS mode by simply shaking your phone.
+### 5.3 Login Page
 
-Audible Alert: Trigger a loud siren to attract attention in case of distress.
+![Login](screenshots/login.png)
 
-Automatic Emergency Call: Instantly connects you to emergency services when in SOS mode.
+### 5.4 Register Page
 
-Architecture 🗼
-SafeShe uses Firebase for authentication, cloud storage, and messaging services. Additionally, it integrates Google Cloud to securely store sensitive data.
+![Register](screenshots/register.png)
 
-Build-Tool 🧰
-Ensure you have Android Studio Giraffe or higher to build this project.
+### 5.5 Home Page
 
-Getting Started 🚀
-Steps to Get Started:
-Clone the repository:
+![Home](screenshots/home.png)
 
-bash
-Copy
-Edit
-git clone https://github.com/KhushiGVishwakarma/SafeShe.git
-cd SafeShe
-Open the project in Android Studio:
+### 5.6 Navigation Drawer Page
 
-Go to File -> Open and select the SafeShe project.
+![Drawer](screenshots/drawer.png)
 
-Firebase Setup:
+### 5.7 Contact Page
 
-In Android Studio, navigate to Tools > Firebase to integrate Firebase services.
+![Contact](screenshots/contact.png)
 
-Set up Firebase Authentication:
+### 5.8 Contact Message Page
 
-Open the Firebase Console: https://console.firebase.google.com/.
+![Contact Message](screenshots/contact_message.png)
 
-Add Firebase Authentication by enabling Email/Password Authentication.
+### 5.9 Helpline Page
 
-Disable Email link (passwordless sign-in).
+![Helpline](screenshots/helpline.png)
 
-Generate a Service Account Key:
+### 5.10 Safety Tips Pages
 
-In Firebase Console, go to Settings > Service accounts.
+* **5.10.1 Tip Page**
+  ![Tip](screenshots/tip.png)
 
-Generate a new private key and save the JSON file as service_account.json in the /res/raw/ folder.
+* **5.10.2 Safety Video Page**
+  ![Video](screenshots/video.png)
 
-Notification Setup:
+* **5.10.3 Safety Gadgets Page**
+  ![Gadgets](screenshots/gadgets.png)
 
-Copy the project_id from the service_account.json and paste it in the NotificationAPI.java file.
+### 5.11 About Page
 
-Sync Gradle:
+![About](screenshots/about.png)
 
-After adding the required Firebase files, sync the project with Gradle.
+### 5.12 Report Incident Page
 
-Run the App:
+![Report](screenshots/report.png)
 
-You're all set! Run the app on your emulator or real device.
+### 5.13 Incident History Page
 
-Contact 📩
-Want to get in touch? Reach out to me at:
+![History](screenshots/history.png)
 
-Email: khushivishwakarma@gmail.com
+### 5.14 Chatbot Page
 
-Credits 🤝
-Icons: Icons by icons8.com
+![Chatbot](screenshots/chatbot.png)
+
+### 5.15 Feedback Page
+
+![Feedback](screenshots/feedback.png)
+
+### 5.16 Profile Page
+
+![Profile](screenshots/profile.png)
+
+### 5.17 Edit Profile Page
+
+![Edit Profile](screenshots/edit_profile.png)
+
+### 5.18 Settings Page
+
+![Settings](screenshots/settings.png)
+
+---
+
+## 🔥 Features
+
+### 👤 User Management
+
+* **Login and Registration**: Easy access for users.
+
+### 🛡️ Safety Measures
+
+* **Live Location Sharing**: Instantly share your location with trusted contacts.
+* **Trusted Contacts**: Add up to 10 trusted contacts.
+* **User Notifications**: Alert trusted contacts via notifications.
+* **SMS Notifications**: Notify non-app users via SMS.
+
+### 🚨 Emergency Assistance
+
+* **Emergency Helplines**: Access important helpline numbers.
+* **Safety Tips**: Learn how to stay safe through curated tips.
+
+### 🆘 SOS Mode
+
+* **Shake Detection**: Trigger SOS with a simple shake gesture.
+* **Audible Alert**: Loud siren to draw attention.
+* **Emergency Call**: Auto-call emergency services in SOS mode.
+
+---
+
+## 🗼 Architecture
+
+This app uses Firebase services (Authentication, Realtime Database, Firestore).
+
+---
+
+## 🧰 Build Tool
+
+To build this project, use **Android Studio Giraffe or above**.
+
+---
+
+## 🚀 Getting Started
+
+1. In Android Studio: Tools > Firebase > Authentication > Authenticate using a custom authentication system.
+2. Connect to Firebase.
+3. Add Firebase Authentication SDK.
+4. In Firebase Console > Authentication > Sign-in method:
+
+   * Enable Email/Password.
+   * Do not enable Email Link.
+5. In Firebase Console > Settings > Service accounts:
+
+   * Generate new private key.
+   * Rename to `service_account.json` and place in `res/raw/`.
+6. In `NotificationAPI.java`, paste your `project_id` from `service_account.json`.
+
+You're good to go!
+
+---
+
+## 📩 Contact
+
+Feel free to connect:
+
+* **Email**: [your-email@example.com](mailto:your-email@example.com)
+
+---
+
+## 🤝 Credits
+
+* [icons8.com](https://icons8.com/) for providing high-quality app icons.
+
+---
