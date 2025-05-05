@@ -385,8 +385,8 @@ public class SosService extends Service implements SensorEventListener {
         }
 
         // Google Places API URL
-        String placesUrl = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=" +
-                mLocation + "&radius=5000&type=police|hospital&key=AIzaSyCC_tlnt64-RJOZ4HqN_I5tfvKdtFwYzoM";
+        //String placesUrl = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=" +
+        //        mLocation + "&radius=5000&type=police|hospital&key=AIzaSyCC_tlnt64-RJOZ4HqN_I5tfvKdtFwYzoM";
 
 
         // Fetch places using HTTP request (Use an AsyncTask or API Client)
